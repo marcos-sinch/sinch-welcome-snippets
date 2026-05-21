@@ -1,0 +1,1 @@
+# sinch-welcome-snippets
